@@ -1,0 +1,26 @@
+body{
+  display:flex;
+  height:100vh;
+  justify-content: center;
+  align-items: center;
+  background: #303841;
+  font-family: monospace;
+}
+#bar-chart{
+  text-align: center;
+  box-shadow: 0 0 10px rgba(0,0,0,1);
+  background: #d0d0d5;
+  border-radius: 30px;
+  
+}
+#title{
+  margin:0;
+  padding-top:0.5em;
+  font-size:2.5em;
+}
+#y-axis{
+  font-size:0.9em
+}
+#x-axis{
+  font-size:0.9em
+}
