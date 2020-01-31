@@ -1,0 +1,14 @@
+body { 
+  display:flex;
+  height:100vh;
+  justify-content: space-around;
+}
+#y-axis, #x-axis{
+  font-size:1em
+}
+#heat-map{
+  width: auto;
+  overflow: visible;
+  margin-left: auto;
+  margin-right: auto;
+}
