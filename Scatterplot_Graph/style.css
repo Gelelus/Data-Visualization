@@ -1,0 +1,21 @@
+body{
+  display:flex;
+  height:100vh;
+  justify-content: center;
+  align-items: center;
+  background: #303841;
+  font-family: monospace
+}
+#scatterplot-graph{
+  text-align: center;
+  box-shadow: 0 0 10px rgba(0,0,0,1);
+  border-radius: 30px;
+  background:white;
+}
+#title{
+  font-size: 2em;
+}
+.ok{
+  transform: rotate(-90deg);
+ 
+}
