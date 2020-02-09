@@ -1,0 +1,17 @@
+body{
+  width: 1200px;
+  margin: auto;
+  text-align:center;
+  font-family:monospace;
+  background: #d0d0d5;
+}
+path {
+  stroke: gray;
+  stroke-width: .5px;
+}
+
+path:hover {
+  fill: red;
+}
+
+
