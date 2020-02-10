@@ -1,0 +1,14 @@
+body{
+  text-align:center;
+  background:#303841;
+
+}
+h1,h2{
+  color: white;
+  text-shadow: 1px 1px 1px black;
+}
+#main{
+  width: 1500px;
+  margin: auto;
+  
+}
